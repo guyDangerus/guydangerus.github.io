@@ -7,7 +7,6 @@
 I am checking the *MarkDown* mode of this site so I am writing this ...
 -----------------------------------------------------------------------
 ### Someone I loved said..
-> Faith is the bird which feels the light when the dawn is still dark. :hand_over_mouth:
+> Faith is the bird which feels the light when the dawn is still dark.
 
 I built this site using github pages, my GitHub account can be found at [guydangerus](github.com/guydangerus)
-$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
