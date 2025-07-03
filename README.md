@@ -1,7 +1,7 @@
 # HI! This is Pratik Modak's own site
 ## If you are reading this it means -
 
-# [LAZY SHIT can be found here - online access](github.com/guydangerus/lazyfiles)
+# [LAZY SHIT can be found here - online access](www.github.com/guydangerus/lazyfiles)
 
 I am checking the *MarkDown* mode of this site so I am writing this ...
 -----------------------------------------------------------------------
